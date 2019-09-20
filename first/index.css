@@ -1,0 +1,28 @@
+body{
+    background:rgb(189, 189, 187);
+    
+}
+
+header{
+   
+    height: 150px;
+    background: rgb(83, 83, 83);
+    margin: 0 auto
+}
+
+.midbox{
+    background: white;
+    width: 785px;
+    height: 700px;
+    margin: auto;
+}
+
+.bottombox{
+    background: black;
+    width: 785px;
+    height: 100px;
+    margin: auto;
+    bottom: 0;
+
+
+}

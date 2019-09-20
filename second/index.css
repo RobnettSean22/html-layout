@@ -1,0 +1,85 @@
+body{
+    background: white;
+    
+}
+
+header{
+    background: white;
+    height: 246px;
+    outline: solid;
+}
+
+.smallvert{
+    background: purple;
+    width: 40px;
+    height: 50%;
+    float: left;
+    margin-left: 20px;
+    margin-top: 106px;
+    margin-right: 50px;
+}
+
+.rect{
+    background: green;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-top: 79px;
+    margin-right: 50px;
+}
+    
+    
+
+
+.circle{
+    background: lightblue;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-top: 32px;
+    border-radius: 50%;
+    
+}
+
+
+
+.border{
+    background: white;
+    height: 300px;
+    outline: dotted;
+}
+
+.shadowbox{
+    background: rgb(238, 236, 209);
+    height: 75%;
+    width: 1331px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 45px;
+    box-shadow: 1px 2px 3px 3px;
+}
+
+.hello{
+    bottom: 0;
+    background:whitesmoke;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding-top: 88px;
+}
+
+ul{
+    list-style: none;
+    float: right;
+}
+
+section{
+    margin-top: 50px;
+
+}
+
+h1{
+    font-size: 53px;
+    text-align: center;
+    
+}
